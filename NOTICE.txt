@@ -1,0 +1,15 @@
+=============================================================================
+= NOTICE file corresponding to section 4d of the Apache License Version 2.0 =
+=============================================================================
+This product includes ports of software developed by
+the NodaTime Authors (https://github.com/nodatime/nodatime/blob/master/AUTHORS.txt).
+
+Portions of godatime were derived from NodaTime 2.4.4; Noda Time
+2.4.4 is copyright the NodaTime Authors 2012-2019.
+
+
+NodaTime in turn includes ports of software developed by
+Joda.org (http://www.joda.org/).
+
+Portions of Noda Time were derived from Joda Time 1.6.0; Joda Time
+1.6.0 is copyright 2001-2009 Stephen Colebourne.
